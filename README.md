@@ -26,4 +26,4 @@ This outputs:
 ```
 
 ## Credit
-[@bresnow](https://github.com/bresnow/chainlocker/blob/dev/cli/utils/auth.mts)
+[@bresnow](https://github.com/bresnow/chainlocker)
